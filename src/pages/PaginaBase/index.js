@@ -1,5 +1,5 @@
 import Cabecalho from "components/Cabecalho";
-import Container from "Components/Container";
+import Container from "components/Container";
 import FavoritosProvider from "contextos/Favoritos";
 import { Outlet } from "react-router-dom";
 import Rodape from "components/Rodape";
